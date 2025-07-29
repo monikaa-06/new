@@ -1,0 +1,71 @@
+<DOCTYPE html>
+<html>
+<head>
+<title>Time Table</title>
+</head>
+<body>
+<body bgcolor="lightgray">
+<center><h2>UG 3rd SEM</h2></center>
+<center><table border="1" cellspacing="0" cellpadding="5">
+<tr>
+<th bgcolor="gray"><font color="white">Day/Time</font></th>
+<th bgcolor="gray">10.10-11.00</th>
+<th bgcolor="gray">11.05-11.55</th>
+<th bgcolor="gray">12.00-12.50</th>
+<th bgcolor="gray">12.50-1.50</th>
+<th bgcolor="gray">01.50-2.40</th>
+<th bgcolor="gray">02.45-3.35</th>
+<th bgcolor="gray">3.40-4.30</th>
+</tr>
+<td bgcolor="gray"><b>MONDAY</b></td>
+<td></td>
+<td></td>
+<td>GE</td>
+<td rowspan="6">LUNCH BREAK</td>
+<td colspan="2"><center>DMBS Lab</center></td> 
+<td></td>
+</tr>
+<tr>
+<td bgcolor="gray"><b>TUESDAY</b></td>
+<td></td>
+<td>DBMS</td>
+<td>GE</td>
+<td>DBMS</td>
+<td>AI</td>
+<td>COA</td>
+</tr>
+<tr>
+<td bgcolor="gray"><b>WEDNESDAY</b></td>
+<td></td>
+<td>MDC</td>
+<td>GE</td>
+<td>COA</td>
+<td>DBMS</td>
+<td>WEB</td>
+</tr>
+<tr>
+<td bgcolor="gray"><b>THURSDAY</b></td>
+<td></td>
+<td>WEB</td>
+<td rowspan="3"><center>Lang AE/K/H</center><td>
+<td>COA</td>
+<td>AI</td>
+</tr>
+<tr>
+<td bgcolor="gray"><b>FRIDAY</b></td>
+<td>WEB</td>
+<td>MDC</td>
+<td colspan="2"><center>WEB Lab</center></td>
+<td></td>
+</tr>
+<tr>
+<td bgcolor="gray"><b>SATURDAY</b></td>
+<td>LIBRARY</td>
+<td>AI</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</center>
+</body>
+</html>
